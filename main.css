@@ -1,5 +1,7 @@
 body {
   font-family: 'Titillium Web', sans-serif;
+  backgroud: #000;
+  color: white;
 }
 
 .navbar-brand {
